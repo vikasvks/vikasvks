@@ -30,28 +30,32 @@
 <br />
 
 ## 🚀💻 Languages and Tools<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-<p> <!-- GitHub README Stats -->
-  <a href="https://gitstats.me/vikasvks">
-    <img width="460" height="auto" align="right" alt="vikas stats" 
-         src="https://github-readme-stats.vercel.app/api?username=vikasvks&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
-   
 
 <div align="center">
-  
-<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/azure1.png?raw=true" height="60" width="80">
-<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/aws.png?raw=true" height="60" width="70">
-<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/snowflake.png?raw=true" height="60" width="60">
-<img src="https://camo.githubusercontent.com/c10bbec541caa795eee7a0ada0415e2fe7c04b4f89aaa8ebc76e1d1ac2ede1d6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6f6e676f64622e706e67" height="60" width="60">
-<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/kafka.png?raw=true" height="60" width="60">
-<img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"?raw=true" height="60" width="60">
+<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/python.png?raw=true" height="80" width="80">
+<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/azure-removebg-preview.png?raw=true" height="100" width="100">
+<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/aws.png?raw=true" height="90" width="80">
+<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/snowflake.png?raw=true" height="80" width="80">
+<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/micro-removebg-preview.png?raw=true" height="100" width="100">
+<img src="https://camo.githubusercontent.com/c10bbec541caa795eee7a0ada0415e2fe7c04b4f89aaa8ebc76e1d1ac2ede1d6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3435322f6d6f6e676f64622e706e67" height="80" width="80">
+<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/c++.png?raw=true" height="80" width="80">
+<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/git.png?raw=true" height="80" width="80">
+<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/vs.png?raw=true" height="80" width="80">
+<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/kafka logo.png?raw=true" height="80" width="80">
+<img src="https://github.com/vikasvks/vikasvks/blob/main/logos/pycharm pic.png?raw=true" height="80" width="80">
+
 
 </div>
-<br/>
-<h4 align="center"> Thanks for Visiting!😇<img width="50" alt="vikasvks" src="https://github.com/vikasvks/vikasvks/blob/main/media/loader.gif?raw=true" ></h4>
+<br />
+<p align="center" >
+<a href="https://github.com/vikasvks/github-readme-stats"> 
+   <img width="460" height="auto" align="right" alt="vikas stats" 
+         src="https://github-readme-stats.vercel.app/api?username=vikasvks&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" />
+  </a>
+</p>
+<br />
+ 
+<h4 align="center"> Thanks for Visiting!😇</h4>
 <img  align="center" alt="Visitors" src="https://komarev.com/ghpvc/?username=vikasvks&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 
 <br/>
