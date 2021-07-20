@@ -9,8 +9,8 @@
 <br/>
 <div align="center">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">]()
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">]()
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/vikas-singh-36382312b)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/vikas__sinngh?r=nametag)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">]()
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">]()
 
@@ -23,7 +23,7 @@
 - 🌱 I’m currently working on something cool 😉
 - 🔭 I’m currently learning **AWS ☁️ Solution Architect**
 - 👯 I’m looking to collaborate with other content creators
-- 📫 How to reach me: You may follow me on [Instagram]() 
+- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/vikas__sinngh?r=nametag) 
 - 😄 Pronouns: he/him/his
 - ⚡fun fact: **I’m think like artist**
 <img width="100%" height="50"  alt="vikasvks" src="https://github.com/vikasvks/vikasvks/blob/main/media/wave.gif?raw=true" >
