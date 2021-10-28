@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/vikas__sinngh?r=nametag) 
 - 😄 Pronouns: he/him/his
-- ⚡fun fact: **I’m think like artist**
+- ⚡fun fact: **Don't Think Too Hard About It and Have Fun With It.**
 <img width="100%" height="50"  alt="vikasvks" src="https://github.com/vikasvks/vikasvks/blob/main/media/wave.gif?raw=true" >
 <br />
 
